@@ -81,10 +81,24 @@ Launch Screen - Shows the app launch image when loading
 
 **Tab Navigation** (Tab to Screen)
 
-Chat screen
-Profile 
 Home screen
+
 Post a comment 
+
+Menu tab on the side:
+
+Profile 
+
+Locate 
+
+Message
+
+Post
+
+Login 
+
+Logout 
+
 
 **Flow Navigation** (Screen to Screen)
 
