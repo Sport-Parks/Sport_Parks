@@ -67,12 +67,13 @@ Register- The user will need to register for an account in order to even use the
 
 Profile -  The user will be able to make a small profile for themselves so others can see if they want.
 
-Chat Screen - This is where users will be able to chat with another or make request in wanting to train together 
+Chat Screen - This is where users will be able to chat with another or make request in wanting to train together. 
 
 Stream screen (Home screen) - Where the main user will be able to see the parks and comments from other users.
 
-Post Screen - WHere the user will be able to post what they are going to be doing or their comments 
-Launch Screen - Shows the app launch image when loading
+Post Screen - WHere the user will be able to post what they are going to be doing or their comments.
+
+Launch Screen - Shows the app launch image when loading.
 
 
 
