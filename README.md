@@ -76,9 +76,12 @@ Post a comment
 **Flow Navigation** (Screen to Screen)
 
 Login => Homescreen
+
 Register => Home screen
+
 Home screen => Chat Screen
-.Home screen => PostScreen
+
+Home screen => PostScreen
 
 
 ## Wireframes
