@@ -12,7 +12,7 @@ Original App Design Project - README Template
 
 ## Overview
 ### Description
-This app will be a sports app, called Sport Parks, that shows all sports specific parks that are in certain areas. Once you find the one you want to go to you can then find other people who are going to that same park and have a chance contacting them through the app to see if other athletes would like to train with you and at what time and on what day as well. This could be helpful for people who especially don't have coaches or need to find a place that fits their needs for whatever sport they need to train for. 
+  This app will be a sports app, called Sport Parks, that shows all sports specific parks that are in certain areas. Once you find the one you want to go to you can then find other people who are going to that same park and have a chance contacting them through the app to see if other athletes would like to train with you and at what time and on what day as well. This could be helpful for people who especially don't have coaches or need to find a place that fits their needs for whatever sport they need to train for. 
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
@@ -26,7 +26,8 @@ This app will be a sports app, called Sport Parks, that shows all sports specifi
 
 - **Habit: This sports app will be used whenever a user needs to find their park, contact other users to train with, or to just get caught up on new information pertaining to the parks and comments that others post on the parks.
 
-- **Scope:
+- **Scope: The app will be easy to access because due to the mobility and direct information that is provided within the app such as how to utilize the app and the specifics on the different times, locations, and sports that are played in that area.
+
 
 
 ## Product Spec
@@ -36,17 +37,27 @@ This app will be a sports app, called Sport Parks, that shows all sports specifi
 **Required Must-have Stories**
 
 User being able to log in
+
 User being able to sign up for an account
+
 Users will be able to make a profile
+
 User will be able to chat with other users
+
 Users will be able to scroll through out which parks are for which sport 
+
 Users will be able to comment
+
+User can log out
+
 
 
 **Optional Nice-to-have Stories**
 
 Users will be able to post pictures 
+
 User will be able to stay logged in 
+ 
 
 
 ### 2. Screen Archetypes
@@ -62,6 +73,8 @@ Chat Screen - This is where users will be able to chat with another or make requ
 Stream screen (Home screen) - Where the main user will be able to see the parks and comments from other users.
 
 Post Screen - WHere the user will be able to post what they are going to be doing or their comments 
+Launch Screen - Shows the app launch image when loading
+
 
 
 ### 3. Navigation
@@ -75,13 +88,16 @@ Post a comment
 
 **Flow Navigation** (Screen to Screen)
 
+Launch Screen => Login
+
 Login => Homescreen
 
 Register => Home screen
 
 Home screen => Chat Screen
 
-Home screen => PostScreen
+Home screen => Post Screen
+
 
 
 ## Wireframes
